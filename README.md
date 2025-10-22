@@ -132,8 +132,4 @@ print("Predicted Price:", price)
 
 ---
 
-## 🧑‍💻 Author
-**Your Name**
-Fresher in Data Analytics | Aspiring Machine Learning Engineer  
-📧 [your.email@example.com]  
-🌐 [LinkedIn / Portfolio link]
+
