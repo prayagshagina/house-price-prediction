@@ -118,6 +118,7 @@ submission.to_csv("submission.csv", index=False)
 print("\n📄 Predictions saved as 'submission.csv'")
 
 print("\n🎉 House Price Prediction project completed successfully!")
+# fku,ku,k
 
 
 
